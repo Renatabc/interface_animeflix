@@ -61,3 +61,8 @@ As seguintes ferramentas foram utilizadas na construção dessa atividade:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Renata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renata-brito-601b83222/)](https://www.linkedin.com/in/renata-brito-601b83222/)
 [![Outlook Badge](https://img.shields.io/badge/-renatabc12@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:renatabc12@outlook.com)](mailto:renatabc12@outlook.com)
+
+
+## Licença
+
+https://github.com/Renatabc/interface_animeflix/blob/main/LICENSE
